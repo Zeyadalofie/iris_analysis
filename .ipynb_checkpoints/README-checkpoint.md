@@ -47,7 +47,12 @@ The dataset contains measurements of Iris flowers, including sepal length, sepal
 
 ## Installation
 
-Clone or download this repository, then navigate to the project directory.
+To clone this repository: 
+
+```bash
+git clone https://github.com/Zeyadalofie/iris_analysis.git
+```
+
 
 Install the project dependencies:
 
