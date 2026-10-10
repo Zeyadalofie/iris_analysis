@@ -84,6 +84,13 @@ uv run jupyter notebook
 
 Open `iris_analysis.ipynb` and run the notebook cells to explore the dataset and perform the analysis.
 
+## Data
+
+The dataset life in this folder:
+
+- `Iris_dataset.csv` 
+
+
 ## Output
 
 The analysis generates the following CSV files in the `output` directory:
