@@ -61,6 +61,9 @@ Install the project dependencies:
 ```bash
 uv sync
 ```
+The uv sync command installs the project's required dependencies based on the pyproject.toml file and synchronizes the virtual environment with the project's dependency lockfile, uv.lock.
+
+This helps ensure that the project uses the expected package versions and that the required libraries are available before running the notebook.
 
 Download the dataset into the `data` directory if it is not already available:
 
