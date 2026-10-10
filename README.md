@@ -59,7 +59,7 @@ git clone https://github.com/Zeyadalofie/iris_analysis.git
 Install the project dependencies:
 
 ```bash
-uv sync
+uv pip sync
 ```
 The uv sync command installs the project's required dependencies based on the pyproject.toml file and synchronizes the virtual environment with the project's dependency lockfile, uv.lock.
 
