@@ -8,15 +8,17 @@ This project focuses on building a Python data analysis project using uv,loading
 ## Project Structure
 
 ```text
-iris-analysis/
-├── data/
-│   └── iris.csv
+iris_analysis/
 ├── output/
 │   ├── species_summary.csv
 │   └── filtered_iris.csv
-├── iris_analysis.ipynb
+├── src/
+│   └── iris_task/
+├── Iris_analysis.ipynb
 ├── pyproject.toml
 ├── uv.lock
+├── .python-version
+├── .gitignore
 └── README.md
 ```
 
